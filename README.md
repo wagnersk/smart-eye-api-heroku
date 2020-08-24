@@ -1,4 +1,6 @@
-# smart-eye-api-heroku
+# SMART EYE - API Backend
+
+## API hospedada no heroku desenvolvido com nodeJS e mongoDB 
 
 
                                         
