@@ -57,8 +57,8 @@
 
 ## 📥 Por que houve a necessidade de criar uma api?
 
-*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3,que por sua vez esta em um modem 4g (usb), logo o ngrok sempre irá gerar um dns diferente.
-Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku (que nunca muda),que por sua vez possui a url atual gerada pelo ngrok, assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
+*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, que por sua vez esta em um modem 4g (usb), logo o ngrok sempre irá gerar um DNS diferente.
+Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku (que nunca muda),que por sua vez possui a url atual gerada pelo ngrok, assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua URL , o banco de dados sempre conterá a URL atual*
 
 
 <br><br>
