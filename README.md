@@ -119,7 +119,7 @@ Curso starter da Rocketseat se deu como base de conhecimentos para a construçã
 
 [https://app.rocketseat.com.br/starter](https://app.rocketseat.com.br/starter)
 
-<br>
+<br><br>
 
 ## 😎️ Autor
 
