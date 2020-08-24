@@ -68,12 +68,16 @@ Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku
 
 <table>
   <tr>
-    <td><img src="/image/stonks-meme.jpeg"/></td>
+    <td><img src="/image/stonks-meme.jpeg"/>
+  </td>
     
-<td>Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo os valores 
-  das variáveis dessa forma eu armazeno ele em um banco de dados , contornando essa situação 😎️.</td> 
+<td>
+    Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo os valores 
+    das variáveis dessa forma eu armazeno ele em um banco de dados , contornando essa situação 😎️.</td> 
   </tr>
 </table>
+
+
 
 <br><br>
 
