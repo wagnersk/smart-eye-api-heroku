@@ -10,9 +10,9 @@
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Porque houve a necessidade de criar uma api?](#-porque-houve-a-necessidade-de-criar-uma-api)
-- [Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?](#-porque-a-necessidade-de-usar-um-banco-de-dados-NoSQL-junto-ao-heroku?)
+- [Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?](#-porque-a-necessidade-de-usar-um-banco-de-dados-NoSQL-junto-ao-heroku)
 - [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
-- [Como fazer deploy no heroku?](#-como-fazer-deploy-no-heroku?)
+- [Como fazer deploy no heroku?](#-como-fazer-deploy-no-heroku)
 - [Referências](#-referências)
 - [Autor](#-autor)
 
