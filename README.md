@@ -27,17 +27,6 @@
 
 <br><br>
 
-
-## 📥 Porque houve a necessidade de criar uma api?
-
-*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, e ele está em um modem 4g , logo o ngrok sempre gera um dns diferente*
-
-<br>
-
-*Então com essa api , o Projeto Mobile aponta para o endereço da API , que por sua vez possui a url atual gerada pelo ngrok , assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
-
-
-
 ## 💡 Sobre o Projeto
 
 <br>
@@ -53,6 +42,26 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 <br><br>
 
 
+## 📥 Porque houve a necessidade de criar uma api?
+
+*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, e ele está em um modem 4g , logo o ngrok sempre gera um dns diferente*
+
+<br>
+
+*Então com essa api , o Projeto Mobile aponta para o endereço da API , que por sua vez possui a url atual gerada pelo ngrok , assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
+
+
+<br><br>
+
+
+## 📥 Porque a necessidade de usar um banco de dados NoSQL junto a api do heroku?
+
+- Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo suas variáveis ativas , logo eu armazeno ele em um banco de dados , contornando essa situação 😎️.
+
+<br><br>
+
+
+
 ## 📥 Como executar esse projeto em seu computador
 
 - Clonar repositório `git clone https://github.com/wagnersk/smart-eye-api-heroku`
@@ -66,6 +75,11 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 - Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo suas variáveis ativas , logo eu armazeno ele em um banco de dados , contornando essa situação 😎️.
 
+<br>
+
+<img src="/image/stonks-meme.jpeg" alt="drawing" width="300/>
+
+<br><br>
 
 
 ## 📥 Como fazer deploy no heroku?
