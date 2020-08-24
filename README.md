@@ -1,6 +1,6 @@
 # SMART EYE - API Backend
 
-## API hospedada no heroku desenvolvido com nodeJS e mongoDB 
+*API hospedada no heroku desenvolvido em nodeJS e mongoDB*
 
 
                                         
