@@ -44,7 +44,7 @@
 <br><br>
 
 
-## 📥 Porque houve a necessidade de criar uma api?
+## 📥 Por que houve a necessidade de criar uma api?
 
 *Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, e ele está em um modem 4g , logo o ngrok sempre gera um dns diferente.
 Então com essa api , o Projeto Mobile aponta para o endereço da API , que por sua vez possui a url atual gerada pelo ngrok , assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
@@ -53,7 +53,7 @@ Então com essa api , o Projeto Mobile aponta para o endereço da API , que por 
 <br><br>
 
 
-## 📥 Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?
+## 📥 Por que a necessidade de usar um banco de dados NoSQL junto ao heroku?
 
 <table>
   <tr>
