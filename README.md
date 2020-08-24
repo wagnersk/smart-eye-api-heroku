@@ -9,7 +9,7 @@
                                    
 <br>
 
-💻 **Você está no Back-end-api | 
+💻 *Você está no* **Back-end-api** | 
 🖥 **Acesse o Back-end-raspberry [aqui](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 **Acesse o Mobile [aqui](https://github.com/wagnersk/smart-eye-mobile)** |
 
