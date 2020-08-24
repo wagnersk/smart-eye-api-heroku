@@ -73,14 +73,18 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 ## 📥 Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?
 
-- Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo suas variáveis ativas , logo eu armazeno ele em um banco de dados , contornando essa situação 😎️.
-
-<br>
 
 
+<table>
+  <tr>
+    <td><img src="/image/stonks-meme.jpeg"/></td>
+    
+<td>Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo os valores 
+  das variáveis dessa forma eu armazeno ele em um banco de dados , contornando essa situação 😎️.</td> 
+  </tr>
+</table>
 
 
-<img src="/image/stonks-meme.jpeg"/>
 
 <br><br>
 
