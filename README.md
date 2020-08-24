@@ -4,9 +4,8 @@
 
 <br>
 
+*O projeto Smart-eye foi desenvolvido por* **[Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)**         
 
- Por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
-                                   
 <br>
 
 💻 Você está em *API-Heroku* | 
