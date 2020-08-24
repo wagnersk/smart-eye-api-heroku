@@ -9,7 +9,7 @@
                                    
 <br>
 
-💻 *Você está em api-heroku* | 
+💻 *Você está em Api-Heroku* | 
 🖥 **Acesse o  [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 **Acesse o [Mobile](https://github.com/wagnersk/smart-eye-mobile)** |
 
