@@ -9,10 +9,10 @@
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
-- [Como incluir o ngrok em seu projeto para gerar um dns fixo](#-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
-- [Configurações automáticas](#-configurações-automáticas)
-- [Sequência de execução dos scripts](#-sequência-de-execução-dos-scripts)
+- [Porque houve a necessidade de criar uma api?](#-porque-houve-a-necessidade-de-criar-uma-api?)
+- [Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?](#-porque-a-necessidade-de-usar-um-banco-de-dados-NoSQL-junto-ao-heroku?)
+- [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
+- [Como fazer deploy no heroku?](#-como-fazer-deploy-no-heroku?)
 - [Referências](#-referências)
 - [Autor](#-autor)
 
@@ -37,26 +37,21 @@
 
 > É um projeto para monitoramento prático de ambientes com temperatura controlada.<br>
 
-Este repositório não tem fins lucrativos , apenas refere-se a parte back-end da api do heroku , com propósito apenas de armazenar a url atual gerada pelo ngrok
+> Este repositório não tem fins lucrativos , apenas refere-se a parte back-end da api do heroku , com propósito apenas de armazenar a url atual gerada pelo ngrok
 
 <br><br>
 
 
 ## 📥 Porque houve a necessidade de criar uma api?
 
-*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, e ele está em um modem 4g , logo o ngrok sempre gera um dns diferente*
-
-<br>
-
-*Então com essa api , o Projeto Mobile aponta para o endereço da API , que por sua vez possui a url atual gerada pelo ngrok , assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
+*Porque o projeto Smart-eye precisa se conectar com o Raspberry Pi 3, e ele está em um modem 4g , logo o ngrok sempre gera um dns diferente.
+Então com essa api , o Projeto Mobile aponta para o endereço da API , que por sua vez possui a url atual gerada pelo ngrok , assim o projeto mobile sempre conseguirá apontar para o raspberry , por mais que ele troque sua url , o banco de dados sempre conterá a url atual*
 
 
 <br><br>
 
 
 ## 📥 Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?
-
-
 
 <table>
   <tr>
@@ -67,12 +62,7 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
   </tr>
 </table>
 
-
-
 <br><br>
-
-
-
 
 ## 📥 Como executar esse projeto em seu computador
 
@@ -82,6 +72,7 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 - Rodar Aplicação: `yarn start`
 
+<br><br>
 
 
 ## 📥 Como fazer deploy no heroku?
@@ -91,15 +82,12 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 <br>
 
-
 [![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=-j7vLmBMsEU)
-
-
-
-<br>
 
 <br>
 *Você irá aprender como criar um banco de dados na núvem gratis e fazer deploy do seu back-end em um servidor também grátis*
+
+<br><br>
 
 
 ## 📕 Referências
