@@ -75,9 +75,9 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 <br>
 
-<img src="/image/youtubeloading.jpeg">
 
-[![<img src="/image/youtubeloading.jpeg">](https://www.youtube.com/watch?v=-j7vLmBMsEU/maxresdefault.jpg)](https://www.youtube.com/embed/-j7vLmBMsEU)
+[![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=-j7vLmBMsEU)
+
 
 
 <br>
