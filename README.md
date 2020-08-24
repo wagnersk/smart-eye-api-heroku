@@ -75,7 +75,10 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-j7vLmBMsEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=-j7vLmBMsEU)
+
+
 
 <br>
 
