@@ -54,23 +54,6 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 <br><br>
 
 
-## 📥 Porque a necessidade de usar um banco de dados NoSQL junto a api do heroku?
-
-- Porque o heroku quando não está ativo , em seu plano FREE , ele adormece , perdendo suas variáveis ativas , logo eu armazeno ele em um banco de dados , contornando essa situação 😎️.
-
-<br><br>
-
-
-
-## 📥 Como executar esse projeto em seu computador
-
-- Clonar repositório `git clone https://github.com/wagnersk/smart-eye-api-heroku`
-
-- Instalar dependências: `yarn`
-
-- Rodar Aplicação: `yarn start`
-
-
 ## 📥 Porque a necessidade de usar um banco de dados NoSQL junto ao heroku?
 
 
@@ -87,6 +70,18 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 
 <br><br>
+
+
+
+
+## 📥 Como executar esse projeto em seu computador
+
+- Clonar repositório `git clone https://github.com/wagnersk/smart-eye-api-heroku`
+
+- Instalar dependências: `yarn`
+
+- Rodar Aplicação: `yarn start`
+
 
 
 ## 📥 Como fazer deploy no heroku?
