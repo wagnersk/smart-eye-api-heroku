@@ -25,7 +25,7 @@
 - [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
 - [Como fazer deploy no heroku?](#-como-fazer-deploy-no-heroku)
 - [Referências](#-referências)
-- [Autor](#%EF%B8%8F--autor)
+- [Autor](#%EF%B8%8F-autor)
 
 
 <br><br>
