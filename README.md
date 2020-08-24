@@ -110,7 +110,7 @@ Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku
 ## 📕 Referências
 
 
-Video explicativo da rocketseat para fazer deploy com heroku e anexar um banco de dados 
+Vídeo explicativo da rocketseat para fazer deploy com heroku e anexar um banco de dados 
 
 [https://www.youtube.com/watch?v=-j7vLmBMsEU&t=1157s](https://www.youtube.com/watch?v=-j7vLmBMsEU&t=1157s)
 
@@ -121,6 +121,6 @@ Curso starter da Rocketseat se deu como base de conhecimentos para a construçã
 
 <br><br>
 
-## 😎️ Autor
+##😎️Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
