@@ -2,6 +2,8 @@
 
 *API hospedada no heroku desenvolvida em nodeJS e mongoDB*
 
+ Por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
+
 
                                         
 <br>
