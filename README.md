@@ -121,6 +121,6 @@ Curso starter da Rocketseat se deu como base de conhecimentos para a construçã
 
 <br><br>
 
-## 😎️Autor
+## 😎️  Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
