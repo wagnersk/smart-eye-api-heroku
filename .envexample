@@ -5,9 +5,9 @@ APP_URL=http://localhost:3000
 
 # Aqui ficará o endereço do mongodb que o vídeo da rocketseat explica como fazer 
 
-MONGO_URL=mongodb+srv://deploy:rengaw8ks@cluster0.431oy.mongodb.net/link-sensor-raspberry-atual?retryWrites=true&w=majority
+MONGO_URL=
 
 
 # Aqui fica a senha que o ngrok irá enviar para "autenticar"
 
-MANUALAUTH=12181019
+MANUALAUTH=senha123
