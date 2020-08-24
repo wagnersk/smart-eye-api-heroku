@@ -95,7 +95,7 @@ Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku
 ## 📥 Como fazer deploy no heroku?
 
 
-*Este projeto foi 100% baseado na técnica ensinada pela **rocketseat** *
+*Este projeto foi 100% baseado na técnica ensinada pela* **rocketseat**
 
 <br>
 
