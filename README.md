@@ -77,7 +77,10 @@ Este repositório não tem fins lucrativos , apenas refere-se a parte back-end d
 
 <br>
 
-<img src="/image/stonks-meme.jpeg" alt="drawing" width="300/>
+
+
+
+<img src="/image/stonks-meme.jpeg"/>
 
 <br><br>
 
