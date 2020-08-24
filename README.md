@@ -88,6 +88,8 @@ Então com essa api , o Projeto Mobile aponta este endereço hospedado no heroku
 
 - Rodar Aplicação: `yarn start`
 
+- Renomar o Arquivo `.envexample para` `.env` alterando adicionando a url de conexão do banco de dados
+
 <br><br>
 
 
