@@ -10,8 +10,8 @@
 <br>
 
 💻 *Você está em api-heroku* | 
-🖥 Acesse o  [Back-end-raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11) | 
-📱 Acesse o [Mobile](https://github.com/wagnersk/smart-eye-mobile) |
+🖥 **Acesse o  [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
+📱 **Acesse o [Mobile](https://github.com/wagnersk/smart-eye-mobile)** |
 
 <br>
 
